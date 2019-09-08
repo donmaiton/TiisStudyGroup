@@ -2971,6 +2971,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "Views\\Chats\\Edit.cshtml",
+      "TargetPath": "Views\\Chats\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
@@ -2986,6 +2991,16 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "Views\\Chats\\Delete.cshtml",
+      "TargetPath": "Views\\Chats\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views\\Chats\\Index.cshtml",
+      "TargetPath": "Views\\Chats\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
@@ -2996,8 +3011,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "Views\\Chats\\Create.cshtml",
+      "TargetPath": "Views\\Chats\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views\\Chats\\Details.cshtml",
+      "TargetPath": "Views\\Chats\\Details.cshtml",
       "FileKind": "mvc"
     }
   ],

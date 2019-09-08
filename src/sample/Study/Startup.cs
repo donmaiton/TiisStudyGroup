@@ -9,6 +9,8 @@ using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using Study.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace Study
 {
@@ -31,6 +33,8 @@ namespace Study
                 options.MinimumSameSitePolicy = SameSiteMode.None;
             });
 
+            services.AddDbContext<StudyContext>(options => 
+                options.UseSqlite(Configuration.GetConnectionString("StudyContext")));
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
         }

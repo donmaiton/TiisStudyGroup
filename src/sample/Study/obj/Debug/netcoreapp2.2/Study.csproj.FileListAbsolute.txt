@@ -28,3 +28,8 @@ C:\git\TiisStudyGroup\src\sample\Study\obj\Debug\netcoreapp2.2\Study.Views.pdb
 C:\git\TiisStudyGroup\src\sample\Study\obj\Debug\netcoreapp2.2\Study.dll
 C:\git\TiisStudyGroup\src\sample\Study\obj\Debug\netcoreapp2.2\Study.pdb
 C:\git\TiisStudyGroup\src\sample\Study\obj\Debug\netcoreapp2.2\Study.csproj.CopyComplete
+C:\git\TiisStudyGroup\src\sample\Study\obj\Debug\netcoreapp2.2\Razor\Views\Chats\Delete.g.cshtml.cs
+C:\git\TiisStudyGroup\src\sample\Study\obj\Debug\netcoreapp2.2\Razor\Views\Chats\Details.g.cshtml.cs
+C:\git\TiisStudyGroup\src\sample\Study\obj\Debug\netcoreapp2.2\Razor\Views\Chats\Edit.g.cshtml.cs
+C:\git\TiisStudyGroup\src\sample\Study\obj\Debug\netcoreapp2.2\Razor\Views\Chats\Index.g.cshtml.cs
+C:\git\TiisStudyGroup\src\sample\Study\obj\Debug\netcoreapp2.2\Razor\Views\Chats\Create.g.cshtml.cs
